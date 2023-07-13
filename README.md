@@ -1,16 +1,16 @@
-## Skills
+# cardeveloper
 
-<img width="20" src="https://img.icons8.com/color/512/fivem.png" /> Fivem
+• 16 
 
-<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> Lua
+• UK
 
-<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /> DiscordJS
-## Current Projects
+# Languages
 
-TBC
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cardeveloper&show_icons=true&locale=en&layout=compact" alt="cardeveloper" /></p>
+# Github stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cardeveloper&show_icons=true&locale=en" alt="cardeveloper" /></p>
+<img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=cardeveloper&show_icons=true&theme=tokyonight" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cardeveloper&" alt="cardeveloper" /></p>
+<img align='left' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardeveloper&layout=compact" />
