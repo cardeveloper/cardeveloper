@@ -13,7 +13,7 @@
 ## past projects
 #### (Newest -> Oldest)
 
-##### • Distinct RP (British/Semi-RP Fragging Server)
+##### • tbd
 
 ## languages
 
